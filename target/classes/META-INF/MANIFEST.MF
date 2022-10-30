@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: achat
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: sofie
+Implementation-Vendor-Id: tn.esprit.rh
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://spring.io/projects/spring-boot/achat
+Created-By: Maven Integration for Eclipse
+
