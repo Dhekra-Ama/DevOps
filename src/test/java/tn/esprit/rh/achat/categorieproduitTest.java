@@ -77,8 +77,8 @@ public void getAllCategorieProduitTest()
 List<CategorieProduit> Catprodlist = new ArrayList<CategorieProduit>() {
 
 {
-add(new CategorieProduit(null,"sofieneee","sofiene", null));
-add(new CategorieProduit(null,"sofieneeeee","sofieneeeeee", null));
+add(new CategorieProduit(null,"adhir","adhir", null));
+add(new CategorieProduit(null,"adhir","adhir", null));
 add(new CategorieProduit(null,"testing","testing", null));
 }};
 
